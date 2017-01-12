@@ -1,0 +1,8 @@
+dmesg.0.swp
+dmesg.swp
+dmesg.txt.swp
+dmesglog.swp
+log1.tgz.swp
+pipe_01.c.swp
+test.txt.swp
+
