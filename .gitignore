@@ -3,3 +3,12 @@ __pycache__
 yunvenv
 db.sqlite3
 .DS_Store
+*.a
+!lib.a
+/TODO
+build/
+doc/*.txt
+doc/**/*.txt
+*.[oa]
+*~
+
