@@ -8,6 +8,8 @@ using namespace std;
 
 int main()
 {
+    int Buffer = BufferSize;
+    
 	cout<< "Test_01" <<endl;
     cout<< BufferSize <<endl;
 
