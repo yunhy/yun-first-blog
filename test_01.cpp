@@ -15,5 +15,10 @@ int main()
 
     cout << "good!" <<endl;
 
+<<<<<<< HEAD
+=======
+    int i = 10;
+
+>>>>>>> testing
     return 0;
 }
