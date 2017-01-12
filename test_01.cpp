@@ -2,6 +2,8 @@
 #include <stdio>
 #include <stdlib>
 
+#include <vector>
+
 #define BufferSize 2048
 
 using namespace std;
