@@ -15,5 +15,7 @@ int main()
 
     cout<< "OK!" << endl;
 
+    cout <<"emergency hotfix!!"<<endl;
+
     return 0;
 }
