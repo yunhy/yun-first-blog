@@ -1,4 +1,7 @@
 #include "foo.h"
+#include <iostream>
+
+#define MAX 1024
 
 //for testing
  
