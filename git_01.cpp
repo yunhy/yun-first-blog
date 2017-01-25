@@ -1,4 +1,6 @@
 #include <iostream>
+#include <stdio>
+#include <vector>
 
 //This file is for git study.
 
