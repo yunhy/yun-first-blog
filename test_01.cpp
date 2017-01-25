@@ -13,5 +13,7 @@ int main()
 	cout<< "Test_01" <<endl;
     cout<< BufferSize <<endl;
 
+    cout<< "OK!" << endl;
+
     return 0;
 }
