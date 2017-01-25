@@ -2,6 +2,8 @@
 #include <stdio>
 #include <vector>
 
+#include <map>
+
 //This file is for git study.
 
 int main(){
